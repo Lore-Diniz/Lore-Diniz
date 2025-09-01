@@ -42,7 +42,6 @@
 <br>
 
 <br>
-
 <div align="center">
   <samp>
     <b>
@@ -52,14 +51,13 @@
   <br>
   <br>
   
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-194d45?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](www.linkedin.com/in/lorenna-laieny/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-194d45?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://www.linkedin.com/in/lorenna-laieny/)
   
 </div>
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 
 ##
 
