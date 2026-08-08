@@ -10,7 +10,7 @@
       <br>
       Hi there! I'm <b>Lorenna Diniz</b>
       <br>
-      <b> Desenvolvedora Full Stackv</b>
+      <b> Desenvolvedora Full Stack</b>
   </samp>
 </div>
 
